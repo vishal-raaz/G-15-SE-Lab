@@ -40,8 +40,7 @@ A full-stack web application for generating AI-powered examination question pape
 ### 1. Clone & Configure
 
 ```bash
-git clone <your-repo-url>
-cd SE-lab
+git clone <repo-url>
 ```
 
 Edit `.env` in the root:
@@ -115,6 +114,3 @@ SE-lab/
 | GET | /api/papers | List papers |
 | GET | /api/papers/stats | Dashboard stats |
 
-## License
-
-MIT — Built for educational purposes.
